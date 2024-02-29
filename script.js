@@ -1,1 +1,1 @@
-alert("salut din document scripte.js!")
+// alert("salut din document scripte.js!")
